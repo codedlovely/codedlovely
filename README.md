@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @codedlovely
 - 👀 I’m interested in ... Running, Scuba diving, Cooking, Reading, Volunteering and Coding
+- My blog [CodedLovely](https://codedlovely.net)
+
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
